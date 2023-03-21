@@ -1,8 +1,4 @@
-<br />
-<b>Warning</b>:  chmod(): No such file or directory in <b>C:\xampp\htdocs\studiomfotografia-auto-push\sistema\gera_pastas.php</b> on line <b>127</b><br />
-
-
-    echo Criando pastas...
+	echo Criando pastas...
     mkdir -p "477 - MEDICINA UNOESTE - PRESIDENTE PRUDENTE 2023-1/477 - FORMANDOS"
     @pause
     cd "477 - MEDICINA UNOESTE - PRESIDENTE PRUDENTE 2023-1/477 - FORMANDOS" 
